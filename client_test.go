@@ -26,9 +26,9 @@ import (
 
 	tls "github.com/refraction-networking/utls"
 
-	. "github.com/Danny-Dasilva/fhttp"
-	"github.com/Danny-Dasilva/fhttp/cookiejar"
-	"github.com/Danny-Dasilva/fhttp/httptest"
+	. "github.com/Scryptor/fhttp"
+	"github.com/Scryptor/fhttp/cookiejar"
+	"github.com/Scryptor/fhttp/httptest"
 )
 
 var robotsTxtHandler = HandlerFunc(func(w ResponseWriter, r *Request) {

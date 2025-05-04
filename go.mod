@@ -3,7 +3,6 @@ module github.com/Scryptor/fhttp
 go 1.24.2
 
 require (
-	github.com/Danny-Dasilva/fhttp v0.0.0-20240217042913-eeeb0b347ce1
 	github.com/refraction-networking/utls v1.7.1
 	golang.org/x/net v0.39.0
 	golang.org/x/term v0.31.0

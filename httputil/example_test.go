@@ -11,9 +11,9 @@ import (
 	"net/url"
 	"strings"
 
-	http "github.com/Danny-Dasilva/fhttp"
-	"github.com/Danny-Dasilva/fhttp/httptest"
-	"github.com/Danny-Dasilva/fhttp/httputil"
+	http "github.com/Scryptor/fhttp"
+	"github.com/Scryptor/fhttp/httptest"
+	"github.com/Scryptor/fhttp/httputil"
 )
 
 func ExampleDumpRequest() {
